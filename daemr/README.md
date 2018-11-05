@@ -1,4 +1,4 @@
-# Collapsing-Fast-Large-Almost-Matching-Exactly: A Matching Method for Causal Inference [[Paper]](https://arxiv.org/abs/1806.06802). 
+# Almost-Exact Matching with Repalcement for Causal Inference [[Paper]](https://arxiv.org/abs/1806.06802). 
 Awa Dieng, Yameng Liu, Sudeepa Roy, Cynthia Rudin, Alexander Volsfovsky <br>
 Duke University
 
